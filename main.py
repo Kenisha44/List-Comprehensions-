@@ -1,5 +1,6 @@
 #list, set, dictionary comprehensions 
 #Quick way for us to creat list,set,dictionary 
+#Frome ZTM Course 
 
 
 #old way
